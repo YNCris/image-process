@@ -3,7 +3,7 @@
 ### 滤波  
 [matlab自带滤波器函数](http://www.ilovematlab.cn/forum.php?mod=viewthread&tid=215671)  
 ### 增强  
-[图像处理的代数运算](https://jingyan.baidu.com/article/d621e8da46aa5d2865913f0a.html)  
+[图像处理的代数运算](https://jingyan.baidu.com/article/d621e8da46aa5d2865913f0a.html)  
 [基于直方图增强的算法--CLAHE](http://blog.csdn.net/baimafujinji/article/details/50660189)  
 [CLAHE原理](http://www.cnblogs.com/Imageshop/archive/2013/04/07/3006334.html)  
 [自适应对比度增强算法原理实现](http://blog.csdn.net/piaoxuezhong/article/details/78385517?locationNum=8&fps=1)  
