@@ -1,5 +1,5 @@
 # picture-process
-##图像处理用到的一些资料  
+## 图像处理用到的一些资料  
 [matlab自带滤波器函数](http://www.ilovematlab.cn/forum.php?mod=viewthread&tid=215671)  
 [图像处理的代数运算](https://jingyan.baidu.com/article/d621e8da46aa5d2865913f0a.html)  
 [基于直方图增强的算法--CLAHE](http://blog.csdn.net/baimafujinji/article/details/50660189)  
