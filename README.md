@@ -10,4 +10,5 @@
 [对比度增强算法（主要为自适应对比度增强）介绍](https://www.cnblogs.com/Leo_wl/p/3324760.html)  
 [直方图规定化](https://baike.baidu.com/pic/%E7%9B%B4%E6%96%B9%E5%9B%BE%E8%A7%84%E5%AE%9A%E5%8C%96/8420564/0/f9dcd100baa1cd112b0b24aeb012c8fcc2ce2dfa?fr=lemma&ct=single#aid=0&pic=f9dcd100baa1cd112b0b24aeb012c8fcc2ce2dfa)  
 ### 校准消抖  
-[视频车辆监控系统图像抖动快速消除算法研究](https://wenku.baidu.com/view/5003d1fb0c22590102029d39.html)
+[视频车辆监控系统图像抖动快速消除算法研究](https://wenku.baidu.com/view/5003d1fb0c22590102029d39.html)  
+[利用互相关方法校正二维图像移动--神经元为例](http://blog.csdn.net/gaohanggaolegao/article/details/70118433)
