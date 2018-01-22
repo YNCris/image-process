@@ -13,4 +13,6 @@
 [视频车辆监控系统图像抖动快速消除算法研究](https://wenku.baidu.com/view/5003d1fb0c22590102029d39.html)  
 [利用互相关方法校正二维图像移动--神经元为例](http://blog.csdn.net/gaohanggaolegao/article/details/70118433)
 ### matlab gui  
-[快速上手教程](https://jingyan.baidu.com/article/e3c78d644706e63c4c85f5d1.html)  
+[快速上手教程](https://jingyan.baidu.com/article/e3c78d644706e63c4c85f5d1.html) 
+###计算机视觉
+[目标跟踪--知乎](https://www.zhihu.com/question/26493945)
