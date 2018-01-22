@@ -15,4 +15,5 @@
 ### matlab gui  
 [快速上手教程](https://jingyan.baidu.com/article/e3c78d644706e63c4c85f5d1.html)   
 ### 计算机视觉  
-[目标跟踪--知乎](https://www.zhihu.com/question/26493945)
+[目标跟踪--知乎](https://www.zhihu.com/question/26493945)  
+[ECO: Efficient Convolution Operators for Tracking](http://blog.csdn.net/zixiximm/article/details/54378397)
