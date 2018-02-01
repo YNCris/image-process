@@ -24,4 +24,6 @@
 [目标跟踪库Benchmark](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)  
 [医学图像测试库grand-challenge](https://grand-challenge.org/All_Challenges)  
 ### 图像处理软件
-[ImagePy 开源图像处理框架](https://zhuanlan.zhihu.com/imagepy)
+[ImagePy 开源图像处理框架](https://zhuanlan.zhihu.com/imagepy)  
+## 医学图像分割与配准
+[ITK](https://itk.org/ITK/resources/software.html)  
