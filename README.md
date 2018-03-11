@@ -10,9 +10,10 @@
 [自适应对比度增强算法原理实现](http://blog.csdn.net/piaoxuezhong/article/details/78385517?locationNum=8&fps=1)  
 [对比度增强算法（主要为自适应对比度增强）介绍](https://www.cnblogs.com/Leo_wl/p/3324760.html)  
 [直方图规定化](https://baike.baidu.com/pic/%E7%9B%B4%E6%96%B9%E5%9B%BE%E8%A7%84%E5%AE%9A%E5%8C%96/8420564/0/f9dcd100baa1cd112b0b24aeb012c8fcc2ce2dfa?fr=lemma&ct=single#aid=0&pic=f9dcd100baa1cd112b0b24aeb012c8fcc2ce2dfa)  
-### 校准消抖  
+### 图像配准匹配  
 [视频车辆监控系统图像抖动快速消除算法研究](https://wenku.baidu.com/view/5003d1fb0c22590102029d39.html)  
-[利用互相关方法校正二维图像移动--神经元为例](http://blog.csdn.net/gaohanggaolegao/article/details/70118433)
+[利用互相关方法校正二维图像移动--神经元为例](http://blog.csdn.net/gaohanggaolegao/article/details/70118433)  
+[SURF特征点检测与匹配之误匹配点删除](http://blog.csdn.net/rongrongyaofeiqi/article/details/54426915)
 ### matlab gui  
 [快速上手教程](https://jingyan.baidu.com/article/e3c78d644706e63c4c85f5d1.html)   
 ### 计算机视觉  
