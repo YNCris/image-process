@@ -13,7 +13,8 @@
 ### 图像配准匹配  
 [视频车辆监控系统图像抖动快速消除算法研究](https://wenku.baidu.com/view/5003d1fb0c22590102029d39.html)  
 [利用互相关方法校正二维图像移动--神经元为例](http://blog.csdn.net/gaohanggaolegao/article/details/70118433)  
-[SURF特征点检测与匹配之误匹配点删除](http://blog.csdn.net/rongrongyaofeiqi/article/details/54426915)
+[SURF特征点检测与匹配之误匹配点删除](http://blog.csdn.net/rongrongyaofeiqi/article/details/54426915)  
+[SURF算法和RANSAC算法相结合的遥感图像匹配方法](https://wenku.baidu.com/view/ca60b45048d7c1c708a1453f.html)
 ### matlab gui  
 [快速上手教程](https://jingyan.baidu.com/article/e3c78d644706e63c4c85f5d1.html)   
 ### 计算机视觉  
