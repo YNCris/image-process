@@ -2,7 +2,7 @@
 ## 图像处理用到的一些资料 
 ### 滤波  
 [matlab自带滤波器函数](http://www.ilovematlab.cn/forum.php?mod=viewthread&tid=215671)    
-[图像FFT基础](https://wenku.baidu.com/view/ee3e6e5984254b35eefd34bd.html)
+[图像FFT基础](https://wenku.baidu.com/view/ee3e6e5984254b35eefd34bd.html)  
 [ICA](https://wenku.baidu.com/view/40caa3544b73f242326c5f36.html)
 ### 增强  
 [图像处理的代数运算](https://jingyan.baidu.com/article/d621e8da46aa5d2865913f0a.html)  
