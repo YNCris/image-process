@@ -33,3 +33,5 @@
 [ITK](https://itk.org/ITK/resources/software.html)  
 #### 医学图像处理名词
 [核磁T1加权像和T2加权像](http://www.sohu.com/a/136203200_387506)  
+### 校正  
+[摄像头图像失真校正](https://blog.csdn.net/tjiyu/article/details/52516581)
