@@ -34,4 +34,6 @@
 #### 医学图像处理名词
 [核磁T1加权像和T2加权像](http://www.sohu.com/a/136203200_387506)  
 ### 校正  
-[摄像头图像失真校正](https://blog.csdn.net/tjiyu/article/details/52516581)
+[摄像头图像失真校正](https://blog.csdn.net/tjiyu/article/details/52516581)  
+### 图像评估方法  
+[数字图像处理，若干图像质量评价指标的实现](https://blog.csdn.net/ebowtang/article/details/43643037)
