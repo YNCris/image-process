@@ -36,4 +36,5 @@
 ### 校正  
 [摄像头图像失真校正](https://blog.csdn.net/tjiyu/article/details/52516581)  
 ### 图像评估方法  
-[数字图像处理，若干图像质量评价指标的实现](https://blog.csdn.net/ebowtang/article/details/43643037)
+[数字图像处理，若干图像质量评价指标的实现](https://blog.csdn.net/ebowtang/article/details/43643037)  
+[图像质量评价：有参考，无参考，部分参考](https://baike.baidu.com/item/IQA/19453034)
